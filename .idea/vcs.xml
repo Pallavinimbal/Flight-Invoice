@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/flight/flight" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/flight/flight/my-practice" vcs="Git" />
   </component>
 </project>
