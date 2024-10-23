@@ -67,4 +67,25 @@ public class FlightNotification {
 
     @Column(nullable = false)
     private String marketedBy;
+
+    @Column(nullable = true)
+    private String departureAirport;
+
+    @Column(nullable = true)
+    private String arrivalAirport;
+
+    @Column(nullable = true)
+    private String terminal;
+
+    @Column(nullable = true)
+    private String nvbDate;
+
+    @Column(nullable = true)
+    private String flightDuration;
+
+    @Column(nullable = true)
+    private String bookingStatus1;
+
+    @Column(nullable = true)
+    private String nvaDate;
 }
